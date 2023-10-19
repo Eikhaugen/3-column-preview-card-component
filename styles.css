@@ -71,6 +71,8 @@ button{
     border-radius: 25px;
     border: 1px solid transparent;
     background-color: #f2f2f2;
+    font-size: 15px;
+    font-family: "Lexend Deca", serif;
 }
 
 button:hover, button:focus{
