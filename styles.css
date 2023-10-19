@@ -18,7 +18,7 @@ body{
     align-items: center;
 }
 
-article{
+.card{
     width: 327px;
     min-height: 442px;
     padding: 48px;
@@ -91,7 +91,7 @@ button:hover, button:focus{
     body{
         height: 100vh;
     }
-    article{
+    .card{
         height: 500px;
     }
     .sedans{
